@@ -12,13 +12,13 @@ I build full-stack web applications and I'm currently looking for a software dev
 - 📐 Also worked with C++, OpenGL and GLSL shaders in a computer graphics project
 - 🧮 Linear Algebra tutor (monitor) at UFRGS
 - 🌍 Open to internships in Brazil and remote/international opportunities
-- 📫 Reach me on [LinkedIn](#) · [Email](#)
+- 📫 Reach me on [LinkedIn](#https://www.linkedin.com/in/guilhermeferoleto) · [Email](#feroletoguilherme@gmail.com)
 
 ---
 
 ### Featured project
 
-**[SoTreina](#)** — a full-stack fitness analytics platform
+**[SoTreina](#sotreina.com)** — a full-stack fitness analytics platform
 Built with React 19, NestJS, Prisma, PostgreSQL, TypeScript, Vite and Tailwind CSS.
 Deployed in production on Vercel, Render and Neon, with automated tests (Vitest) and OAuth authentication.
 
