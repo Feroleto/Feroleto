@@ -37,10 +37,3 @@ Deployed in production on Vercel, Render and Neon, with automated tests (Vitest)
 **Tools:** Docker, Git, Linux/WSL
 
 **Other:** OpenGL, GLSL
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feroleto&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feroleto&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
